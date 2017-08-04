@@ -1,6 +1,8 @@
 #!/bin/sh
 
 echo "The following are the details "
+ls 
+
 ifconfig
 
 hostname
