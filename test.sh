@@ -1,9 +1,10 @@
 #!/bin/sh
 
 echo "The following are the details "
+ifconfig
 
 hostname
 
 pwd
 
-echo "whho logged into the system: `whoami`
+echo "who logged into the system: `whoami`"
