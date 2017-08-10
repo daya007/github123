@@ -1,2 +1,3 @@
 hi good mng guys how r u all
-This is simple file
+This is simple file 
+this is modified txt data
