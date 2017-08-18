@@ -7,7 +7,6 @@ ifconfig
 
 hostname
 
-pwd
 
 echo "who logged into the system: `whoami`"
 
